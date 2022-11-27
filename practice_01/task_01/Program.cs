@@ -10,6 +10,6 @@ if (a > b)
 
 if (a < b)
     Console.WriteLine($"max = {b}");
-    
+
 if (a == b)
     Console.WriteLine("a = b");
