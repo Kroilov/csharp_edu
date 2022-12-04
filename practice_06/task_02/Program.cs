@@ -20,6 +20,5 @@ double y = k2 * x + b2;
 
 if (k1 == k2)
     WriteLine ("No intersect");
-
 else
     WriteLine($"Intersection point X = {x}, Y = {y}");
