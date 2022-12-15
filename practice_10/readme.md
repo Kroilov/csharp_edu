@@ -11,4 +11,4 @@
 2. С помощью метода `TranferToArrayIf`  проверяем каждое значение первого массива на соотвествение заданной длинне и записываем подходящее значение следующим элементом во второй массив 
 4. Выводим на экран оба массива с помощью метода `PrintArray`
 
-[Algo Diagram]()
+[Algo Diagram](https://github.com/Kroilov/Kroilov-csharp_edu/blob/main/practice_10/algo.png)
