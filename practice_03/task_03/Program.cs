@@ -3,9 +3,6 @@
 
 using static System.Console;
 
-Write("Enter number: ");
-int number = int.Parse(Console.ReadLine());
-
 void cube(int[] number)
 {
     for (int counter = 1; counter < number.Length; counter++)
@@ -15,5 +12,8 @@ void cube(int[] number)
     }
 }
 
+
+Write("Enter number: ");
+int number = int.Parse(Console.ReadLine());
 int[] resultArray = new int[number + 1];
 cube(resultArray);
